@@ -1,5 +1,6 @@
 {
   "name": "@tsmodule/react",
+  "description": "Standard styles and dependencies for React TS Modules.",
   "platform": "browser",
   "version": "1.0.0",
   "license": "MIT",
