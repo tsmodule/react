@@ -2,20 +2,14 @@
   "name": "@tsmodule/react",
   "description": "Standard styles and dependencies for React TS Modules.",
   "platform": "browser",
-  "version": "1.1.0",
+  "version": "2.0.0",
   "license": "MIT",
   "types": "dist/index.d.ts",
   "style": "dist/bundle.css",
+  "module": "dist/bundle.css",
   "files": [
     "dist"
   ],
-  "exports": {
-    ".": "./dist/index.js",
-    "./styles": "./dist/styles/index.css",
-    "./styles/*": "./dist/styles/*/index.css",
-    "./package.json": "./package.json",
-    "./*": "./dist/components/*/index.js"
-  },
   "scripts": {
     "export": "tsmodule build",
     "dev": "next dev",
