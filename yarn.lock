@@ -170,10 +170,10 @@
   resolved "https://registry.yarnpkg.com/@trysound/sax/-/sax-0.2.0.tgz#cccaab758af56761eb7bf37af6f03f326dd798ad"
   integrity sha512-L7z9BgrNEcYyUYtF+HaEfiS5ebkh9jXqbszz7pC0hRBPaatV0XjSD3+eHrpqFemQfgwiFF0QPIarnIihIDn7OA==
 
-"@tsmodule/tsmodule@^29.0.0":
-  version "29.0.0"
-  resolved "https://registry.yarnpkg.com/@tsmodule/tsmodule/-/tsmodule-29.0.0.tgz#00d42469a038f3446873461f89db2b6a6763b7fd"
-  integrity sha512-6NqMdk1vbNgn3DQFW8GD92dN0BQWQSZ6zD36ahUFXNdjECf545MK1ukjsr9OYVZcpotzjXEImUfEgrv64eAXfQ==
+"@tsmodule/tsmodule@^30.0.0":
+  version "30.0.0"
+  resolved "https://registry.yarnpkg.com/@tsmodule/tsmodule/-/tsmodule-30.0.0.tgz#4c9c73a9252343da2cf6731af63251b5959e7ad3"
+  integrity sha512-h2Wr7oGv8CvZdNlSBOs6DdrQFnkQ+ZA7AFh7VbjmrOOZ4Y5PQkbyMpqTBdO+xSUcM/WQKY2SQHZ4le0cXJz4mw==
   dependencies:
     "@types/glob" "^7.2.0"
     "@types/node" "^17.0.21"
