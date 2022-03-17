@@ -10,9 +10,4 @@
  * ❌ DO NOT CHANGE: Load the standardized styles that may be relied on by
  * component styles.
  */
-@import "../_styles/index.css";
-
-/**
- * 📝 EXPORT COMPONENT STYLES: Load your component style exports here as needed.
- */
-@import "./Card/index.css";
+@import "../styles/index.css";
