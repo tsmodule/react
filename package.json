@@ -11,7 +11,7 @@
     "dist"
   ],
   "scripts": {
-    "export": "tsmodule build",
+    "export": "tsmodule build --styles src/styles/index.css",
     "dev": "next dev",
     "build": "next build",
     "start": "next start",

@@ -1,5 +1,6 @@
 module.exports = {
-  content: [],
+  content: ["src/**/**"],
+  safelist: [{ pattern: /.*/ }],
   theme: {
     extend: {
       screens: {
