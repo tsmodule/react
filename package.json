@@ -2,7 +2,7 @@
   "name": "@tsmodule/react",
   "description": "Standard styles and dependencies for React TS Modules.",
   "platform": "browser",
-  "version": "3.0.0",
+  "version": "4.0.0",
   "license": "MIT",
   "types": "dist/index.d.ts",
   "style": "dist/bundle.css",
