@@ -9,15 +9,15 @@
   font-family: sans-serif;
 }
 
-/* Style your display font here. */
-.display {
-  @apply serif;
-}
-
 /* Style your interface font here. */
 .interface {
   font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
   Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+}
+
+/* Style your display font here. */
+.display {
+  @apply interface;
 }
 
 /* LINKS */
