@@ -2,7 +2,7 @@
   "name": "@tsmodule/react",
   "description": "Standard styles and dependencies for React TS Modules.",
   "platform": "browser",
-  "version": "8.0.0",
+  "version": "8.0.1",
   "license": "MIT",
   "types": "dist/index.d.ts",
   "style": "dist/bundle.css",
@@ -11,13 +11,13 @@
     "dist"
   ],
   "scripts": {
-    "export": "tsmodule build --styles src/styles/index.css",
+    "export": "tsmodule build -b --styles src/styles/index.css",
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
     "lint": "next lint --fix",
     "test": "ava",
-    "prepublishOnly": "yarn build && yarn test"
+    "prepublishOnly": "yarn export && yarn build && yarn test"
   },
   "ava": {
     "timout": 240000,
