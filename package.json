@@ -37,16 +37,16 @@
     "react-dom": "^17.0.2"
   },
   "devDependencies": {
-    "@tsmodule/tsmodule": "^30.0.0",
-    "@types/react": "^17.0.40",
-    "@types/react-dom": "^17.0.13",
+    "@tsmodule/tsmodule": "^34.0.2",
+    "@types/react": "^17.0.43",
+    "@types/react-dom": "^17.0.14",
     "autoprefixer": "^10.4.4",
-    "cssnano": "^5.1.4",
-    "eslint": "^8.11.0",
-    "eslint-config-next": "^12.1.0",
-    "next": "^12.1.0",
+    "cssnano": "^5.1.5",
+    "eslint": "^8.12.0",
+    "eslint-config-next": "^12.1.1",
+    "next": "^12.1.1",
     "postcss": "^8.4.12",
-    "postcss-import": "^14.0.2",
+    "postcss-import": "^14.1.0",
     "tailwindcss": "^3.0.23"
   }
 }

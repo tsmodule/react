@@ -150,7 +150,7 @@ p {
   * Center flex and text.
   */
 .center {
-  @apply flex-center text-center;
+  @apply flex justify-center items-center text-center;
 }
 
 /* CONTENT */

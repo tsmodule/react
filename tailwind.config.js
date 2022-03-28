@@ -1,6 +1,5 @@
 module.exports = {
-  content: ["src/**/**"],
-  safelist: [{ pattern: /.*/ }],
+  content: ["src/**/*.{js,ts,jsx,tsx}"],
   theme: {
     extend: {
       screens: {
