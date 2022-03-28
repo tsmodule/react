@@ -10,7 +10,9 @@
 }
 
 /* Style your display font here. */
-.display {}
+.display {
+  @apply serif;
+}
 
 /* Style your interface font here. */
 .interface {
