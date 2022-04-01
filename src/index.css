@@ -19,3 +19,4 @@
  * Export component styles.
  */
 @import "./components/index.css";
+@import "./styles/index.css";
