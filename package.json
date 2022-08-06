@@ -20,7 +20,7 @@
     "prepublishOnly": "yarn export && yarn build && yarn test"
   },
   "ava": {
-    "timout": 240000,
+    "timeout": 240000,
     "files": [
       "test/**/*.test.ts"
     ],
